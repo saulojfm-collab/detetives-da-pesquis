@@ -1,0 +1,26 @@
+PRÁTICA COMUM — PDB 1HPV / PROTEASE DO HIV-1 + AMPRENAVIR
+
+Fonte: https://files.rcsb.org/download/1HPV.pdb
+Estrutura: https://www.rcsb.org/structure/1HPV
+Consulta e download: 19/10/2026.
+
+Arquivos:
+1HPV-complexo-original.pdb — depósito original completo, sem alterações.
+1HPV-receptor-bruto.pdb — registros ATOM e TER, cadeias A e B. Sem ligante e sem águas.
+1HPV-amprenavir-referencia.pdb — registros HETATM do ligante 478, 35 átomos pesados, pose experimental original.
+1HPV-agua-A201.pdb — oxigênio da água HOH A201, sem H.
+
+Estes extratos NÃO são entradas quimicamente preparadas para docking. Prepare os componentes no portal. Para a execução didática, prefira os arquivos de teste correspondentes a 1HPV no próprio DockThor; a referência PDB serve à comparação geométrica. Ordens de ligação e estados de protonação precisam de conferência.
+
+Rota documentada no tutorial oficial:
+https://dockthor.lncc.br/v2/tutorials/Tutorial1_1HPV.pdf
+Asp25 cadeia B: ASPN1. Incluir água estrutural de teste HOH201 A. Conferir a identificação do resíduo e aplicar as alterações.
+Centro (Å): X 10.387, Y 18.119, Z 8.484 — átomo C6 do amprenavir no arquivo original.
+Dimensões TOTAIS (Å): 20, 20, 20. Espaçamento (Å): 0.25.
+Manter perfil Standard e registrar parâmetros reais da interface.
+
+Não recentrar ou alinhar o receptor sem atualizar o referencial do ligante e da caixa.
+Nenhuma pose predita ou pontuação 1HPV é fornecida como resultado de uma execução neste kit.
+O professor deve realizar e arquivar uma execução anterior à aula.
+
+Ao analisar: fornecer a referência experimental para o RMSD, verificar correspondência atômica e sobreposição, ler Score e T. Energy como grandezas diferentes e registrar limitações.

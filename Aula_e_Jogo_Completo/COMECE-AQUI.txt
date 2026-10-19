@@ -1,0 +1,10 @@
+AULA E EXPEDIÇÃO BIOPRODUTOS
+
+Aula: aula-docking/index.html
+Jogo: aula-docking/jogo.html
+
+A demonstração precisa ser aberta por uma hospedagem HTTP/HTTPS (como GitHub Pages ou o serviço incluído), pois usa módulos JavaScript. Abrir jogo.html diretamente como arquivo pode bloquear os módulos em alguns navegadores.
+
+Para sincronizar alunos pela internet, publique o serviço descrito em servidor-jogo/README.md. Ele já foi implementado e testado localmente, mas ainda não foi publicado numa conta de hospedagem. O GitHub Pages sozinho não executa esse serviço.
+
+O guia do professor foi atualizado. A conferência automática da paginação não pôde ser realizada por ausência do conversor de Word neste ambiente.
