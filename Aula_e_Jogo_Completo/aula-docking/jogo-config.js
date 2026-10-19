@@ -1,3 +1,3 @@
 // GitHub Pages: depois de hospedar o serviço de jogo, informe aqui sua URL HTTPS.
 // Na versão servida pelo próprio serviço, deixe vazio para usar a mesma origem.
-window.GAME_API_URL = '';
+window.GAME_API_URL = 'https://expedicao-bioprodutos.onrender.com';
