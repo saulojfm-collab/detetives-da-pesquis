@@ -68,3 +68,42 @@ Os PDFs integrais, páginas de e-mail e dados de contato presentes nas fontes n�
 ## Revisão da aula com jogo
 
 A capa animada de protease foi substituída por uma composição da expedição. O logo do mestrado agora integra o cabeçalho com o nome completo. A aula obrigatória não solicita execução de DockThor. Os arquivos moleculares anteriores ficam apenas como complemento. A estação de termodinâmica usa analogia de peças articuladas, cenários qualitativos e a participação da água. As barras não são medidas nem termos quantitativos de energia. A atividade final é uma história fictícia com oito desafios de pesquisa.
+
+## Imagens adicionadas e recursos online
+
+As cinco imagens abaixo foram fornecidas pelo usuário para esta aula e mantidas sem alteração no conteúdo. A autoria e a licença das imagens originais não foram informadas no material recebido; nenhuma nova licença é atribuída a elas.
+
+| Arquivo original | Arquivo no site | Local e função |
+|---|---|---|
+| German chemist Emil Fischer.webp | retrato-emil-fischer.webp | Estação 2, retrato associado ao modelo chave–fechadura |
+| Daniel_Koshland_1991.jpg | retrato-daniel-koshland.jpg | Estação 2, retrato associado ao encaixe induzido |
+| figure_002.jpg | modelo-chave-fechadura.jpg | Estação 2, analogia de complementaridade |
+| induced-fit-model-of-enzyme-action.PNG | modelo-encaixe-induzido.png | Estação 2, ajuste conformacional e distinção entre reconhecimento e catálise |
+| best pose.jpg | fluxo-docking-selecao-pose.jpg | Estação 4, preparação, busca, pontuação e seleção |
+
+Logotipos de ferramentas, usados para identificação e acesso aos serviços oficiais, consultados em 19/10/2026:
+
+- DockThor: https://dockthor.lncc.br/v2/ . Logotipo original: https://dockthor.lncc.br/v2/images/header/logo_teste.png . Arquivo: assets/logo-dockthor-oficial.png .
+- SwissDock: https://www.swissdock.ch/ . Símbolo original: https://www.swissdock.ch/shared/navigationbar/img/SD-Red-512.png . Arquivo: assets/logo-swissdock-oficial.png .
+
+As marcas pertencem a seus respectivos titulares. A utilização dos logotipos não indica vínculo institucional ou endosso à aula. As descrições se baseiam nas páginas oficiais; não foi feita submissão de docking aos serviços. CB-Dock2 não foi incluído entre as sugestões porque redirecionou para manutenção durante a consulta.
+# Atualização conceitual — 20/10/2026
+
+DrugDesign.org, *Molecular Docking: Principles and Methods*, Elie Cohen, Claude Cohen e Dina Schneidman: https://www.drugdesign.org/chapters/molecular-docking/ . Consultado em 20/10/2026 para organização dos tópicos de pose, entradas/saídas e limites. Textos explicativos e modelos interativos desta atualização são próprios; nenhuma animação, imagem ou molécula desse site foi copiada ou incorporada. Links permitem consultar o material original em seu próprio site. Termos: https://www.drugdesign.org/site/copyright/ .
+
+
+## Mídias fornecidas pelo professor — 20/10/2026
+
+Incluídos os arquivos docker_program.gif, pose.png, 1_8_0_0_0_1.png, level_complexity_flex.png e docker_aim.gif, fornecidos pelo usuário e identificados com a marca © drugdesign.org. Originais preservados; quadros iniciais PNG gerados apenas para pausar as animações. A inclusão nesta prévia não transfere direitos nem concede licença de redistribuição. Os termos do site restringem a reprodução pública: https://www.drugdesign.org/site/copyright/ . A afirmação anterior de ausência de mídias copiadas descreve a atualização conceitual anterior; esta revisão acrescenta os arquivos fornecidos pelo professor.
+
+## Figuras de interação e energia — 20/10/2026
+
+Arquivos fornecidos pelo professor: desolvatation.gif, binding_energy.png e 2_2_0_0_0_1.png, © DrugDesign.org. Mantidos na prévia local com atribuição e notas conceituais. Quadro inicial PNG para controle de reprodução. Permanecem as restrições de reprodução pública da fonte. As legendas distinguem energia potencial de energia livre, associação de dissociação e efeitos do solvente.
+# Revisão visual da termodinâmica — 21/10/2026
+
+Gomes, O.; Samuel, P. J.; Caluaco, B. J.; Madureira, J. M. C.; Fonseca, A. M.; Colares, R. P. Um estudo sobre termodinâmica no docking molecular. In: Fonseca, A. M.; Marinho, E. S.; Santos, J. C. S. (orgs.). Uma breve introdução à simulação computacional aplicada à química. Fortaleza: EdUECE, 2023, p. 160–196. ISBN 978-85-7826-874-9. PDF fornecido pelo professor, consultado integralmente no capítulo; foco conceitual nas p. 174–189. Texto e diagramas didáticos próprios; a figura 1 da p. 188 não foi reproduzida. Corrigidas na adaptação as confusões entre dinâmica molecular e docking, espontaneidade e conversão completa/reversibilidade, energia interna e potencial e PV como pressão vezes volume. Não foram transpostos os valores/condições ou conclusões da tabela da p. 191.
+
+# Reconstrução da estação 5 — 21/10/2026
+
+Nova organização: três conceitos breves, um único ligante em quatro aspectos de comparação, animação de dessolvatação, perguntas aplicadas à inspeção de poses e cenários qualitativos. Esquema SVG próprio, sem coordenadas moleculares ou cálculo energético. Reexaminados os textos extraídos do conjunto de materiais do projeto com foco em entalpia, entropia, solvente, flexibilidade e pontuação; suporte direto em Torres et al. (2019), p. 5–6; Li, Fu e Zhang (2019), p. 2–3; Trott e Olson (2010), p. 3–4; Tonolo et al. (2023), p. 6–7; revisão de produtos naturais de 2026, seção 4; Gomes et al. (2023), p. 174–189. Os tutoriais apoiam a preparação e inspeção; os estudos aplicados apoiam a separação entre predição estrutural e confirmação experimental. O termo de flexibilidade do Vina original não foi apresentado como entropia medida. Não se atribuiu um valor de ΔH ou ΔS a uma imagem de pose.
+
